@@ -1,0 +1,42 @@
+[33mcommit 016876c32a6ebbfd8a4fbd7ebf08c94c06c59028[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7caaad9 ead68d5
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Wed Oct 23 12:07:59 2019 +0500
+
+    merge commit
+
+[33mcommit 7caaad90ba7055fed0e725201d8a1f960dc2aea2[m
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Wed Oct 23 12:06:56 2019 +0500
+
+    commit 2 in master branch
+
+[33mcommit 6c61cad5e88f07b4056440edd55d062ff27105b1[m
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Wed Oct 23 12:05:47 2019 +0500
+
+    new branch
+
+[33mcommit ead68d5ba925f24067fea7da71a34b104d1988f6[m[33m ([m[1;32mtest[m[33m)[m
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Wed Oct 23 12:04:04 2019 +0500
+
+    commit 2 in test branch
+
+[33mcommit ea2660425a4774ea53f18caf638b2d471e1f5336[m
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Wed Oct 23 12:02:59 2019 +0500
+
+    commit 1 in test
+
+[33mcommit a1899a2782ece43cbb53a61ad20a5251d7383773[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Sat Oct 19 12:44:53 2019 +0500
+
+    add style
+
+[33mcommit d8dd0d2cc934a7502e81506ab70444249c48d526[m
+Author: naveed-rana <rana.naveed812@gmail.com>
+Date:   Sat Oct 19 12:33:35 2019 +0500
+
+    initial basic code
